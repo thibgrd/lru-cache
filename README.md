@@ -31,9 +31,9 @@ graph LR
 
 To efficiently implement LRU, systems often use:
 
-Doubly Linked List: to keep track of access order (most recent at one end, least recent at the other).
+- Doubly Linked List: to keep track of access order (most recent at one end, least recent at the other).
 
-Hash Map: for quick lookup of keys.
+- Hash Map: for quick lookup of keys.
 
 The Doubly Linked List can be represented like this:
 
