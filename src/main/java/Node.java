@@ -1,5 +1,3 @@
-package com.lru.cache;
-
 public class Node {
 
     int key;
