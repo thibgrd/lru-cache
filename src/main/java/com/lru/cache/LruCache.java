@@ -64,8 +64,4 @@ public class LruCache {
         return nodeToEvict;
     }
 
-    public static void main(String[] args) {
-
-    }
-
 }
